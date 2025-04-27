@@ -1,0 +1,13 @@
+{
+  "string": [
+    {"name": "app_name", "value": "无人机商店"},
+    {"name": "drone1", "value": "入门级四轴无人机"},
+    {"name": "drone2", "value": "专业航拍无人机"},
+    {
+      "name": "module_desc",
+      "value": "无人机商店应用模块"
+    },
+    {"name": "add_to_cart", "value": "加入购物车"}
+
+  ]
+}
